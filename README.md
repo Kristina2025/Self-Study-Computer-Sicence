@@ -2,14 +2,16 @@
 
 I've decided to teach myself computer science, starting from the basics and working my way up. At the end of this journey, I hope to give myself a full CS education. I'll use free online University courses from MIT, UC Berkeley, Standford, Harward, Princeton...
 
+Currently working on: Algebra and Geometry + CS106A - Programming Methodology 
+
 ## Math Courses
 
 ### 1. Algebra and Geometry
 
 | Book Title | Date Started | Date Completed | 
 |----------|----------|----------|
-| Elementary and Intermediate Algebra by Jerome E. Kaufmann| TBD | TBD | 
-| Everything You Need to Ace Geometry in One Big Fat Notebook by Workman Publishing | TBD | TBD |
+| Elementary and Intermediate Algebra by Jerome E. Kaufmann| 14.08.2025 | TBD | 
+| Everything You Need to Ace Geometry in One Big Fat Notebook by Workman Publishing | 14.08.2025 | TBD |
 
 Additional study:
 - https://www.khanacademy.org/
@@ -69,7 +71,7 @@ Additinal study:
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
-| CS106A - Programming Methodology | Java | TBD | TBD | TBD |
+| CS106A - Programming Methodology | Java | 18.08.2025 | TBD | TBD |
 | CS106B - Programming Abstractions |  C++ | TBD | TBD | TBD |
 | CS107 - Programming Paradigms |  C | TBD | TBD | TBD |
 
