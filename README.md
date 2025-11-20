@@ -45,14 +45,12 @@ Additional study:
 Additional study:
 - Calculus by James Stewart
 
-### 5. Linear Algebra and Differential Equations
+### 5. Linear Algebra
 
 | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|
 | MIT18.06: Linear Algebra | TBD | TBD | TBD | 
-| MIT18.03: Differential Equations |  TBD | TBD | TBD |
-| MIT18.04: Complex Variables Functions |  TBD | TBD | TBD | 
-| MIT18.152: Partial Differential Equations |  TBD | TBD | TBD | 
+
 
 ### 6. Discrete Math and Probability 
 
@@ -67,27 +65,6 @@ Additinal study:
 
 ## Programming Basics
 
-### 1. Standford Programming Courses
-
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| CS106A - Programming Methodology | Java | 18.08.2025 | TBD | TBD |
-| CS106B - Programming Abstractions |  C++ | TBD | TBD | TBD |
-| CS107 - Programming Paradigms |  C | TBD | TBD | TBD |
-
-*Additional resources for learning Java:*
-- https://java-programming.mooc.fi/
-- Java: A Beginner's Guide, Eighth Edition 8th Edition by Herbert Schildt
-
-*Additional resources for learning C++:*
-- https://www.learncpp.com/
-- C++ primer by Stanley B. Lippman
-
-*Additional resources for learning C:*
-- https://beej.us/guide/bgc/html/split/
-- C Programming Language, 2nd Edition 2nd Edition by Brian W. Kernighan, Dennis M. Ritchie
-
-### 2. UC Berkeley Programming Courses
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
@@ -97,12 +74,6 @@ Additinal study:
 - Object-Oriented Python: Master OOP by Building Games and GUIs by Irv Kalb
 - 100 Days of Code: The Complete Python Pro Bootcamp on Udemy by Dr. Angela Yu
 
-### 3. MIT Programming Courses (optional)
-
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| 6.0001 - Introduction to Computer Science and Programming in Python | Python | TBD | TBD | TBD |
-| 6.0002 - Introduction to Computational Thinking and Data Science| Python | TBD | TBD | TBD |
 
 
 ## Data Structure and Algorithms
@@ -111,7 +82,6 @@ Additinal study:
 |----------|----------|----------|----------|----------|
 | UCB CS61B: data structures and algorithms | Java | TBD | TBD | TBD |
 | Princeton: Algorithms I & Princeton: Algorithms II|  Java | TBD | TBD | TBD |
-| CS107 - Programming Paradigms | Flexible | TBD | TBD | TBD |
 
 *Additional resources for learning data structures and algorithms:*
 - How to Solve It: A New Aspect of Mathematical Method by George Polya
