@@ -2,7 +2,7 @@
 
 I've decided to teach myself computer science, starting from the basics and working my way up. At the end of this journey, I hope to give myself a full CS education. I'll use free online University courses from MIT, UC Berkeley, Standford, Harward, Princeton...
 
-Currently working on: Algebra and Geometry + CS106A - Programming Methodology 
+Currently working on: Algebra and Geometry + CS61A - Structure and Interpretation of Computer Programs 
 
 ## Math Courses
 
@@ -65,15 +65,11 @@ Additinal study:
 
 ## Programming Basics
 
-
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | CS61A - Structure and Interpretation of Computer Programs | Python | TBD | TBD | TBD |
 
-*Additional resources for learning Python:*
-- Object-Oriented Python: Master OOP by Building Games and GUIs by Irv Kalb
-- 100 Days of Code: The Complete Python Pro Bootcamp on Udemy by Dr. Angela Yu
-
+Book: Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science)
 
 
 ## Data Structure and Algorithms
@@ -83,13 +79,10 @@ Additinal study:
 | UCB CS61B: data structures and algorithms | Java | TBD | TBD | TBD |
 | Princeton: Algorithms I & Princeton: Algorithms II|  Java | TBD | TBD | TBD |
 
-*Additional resources for learning data structures and algorithms:*
-- How to Solve It: A New Aspect of Mathematical Method by George Polya
-- The Algorithm Design Manual 2nd Edition by Steve S. Skiena
-- https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp
-- Introduction to Algorithms, 3rd Edition by Thomas H Cormen
+Book: Introduction to Algorithms, 3rd Edition, by Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, Clifford Stein 
 
-## Electrical Engineering Basics
+
+## Electrical Engineering Basics (optional)
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
@@ -155,4 +148,6 @@ Additinal study:
 
 ## Machine Learning, AI, Deep Learning
 
-TBD
+| Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|
+| Stanford CS229: Machine Learning | / | TBD | TBD | TBD |
