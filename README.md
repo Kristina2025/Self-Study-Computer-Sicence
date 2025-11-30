@@ -2,7 +2,7 @@
 
 I've decided to teach myself computer science, starting from the basics and working my way up. At the end of this journey, I hope to give myself a full CS education. I'll use free online University courses from MIT, UC Berkeley, Standford, Harward, Princeton...
 
-Currently working on: Algebra and Geometry + CS61A - Structure and Interpretation of Computer Programs 
+Currently working on: Algebra and Geometry + CS61A - Structure and Interpretation of Computer Programs + Build a Modern Computer from First Principles: From Nand to Tetris (Part I)
 
 ## Math Courses
 
@@ -23,7 +23,14 @@ Additional study:
 | Algebra and Trigonometry by James Stewart | TBD | TBD | 
 | Precalculus: Graphical, Numerical, Algebraic by Demana, Franklin | TBD | TBD |
 
-### 3. Single Variable Calculus 
+### 3. Mathematics for Computer Science
+
+| Course Title | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|
+| MIT6.042J - Mathematics for Computer Science | TBD | TBD | TBD | 
+
+
+### 4. Single Variable Calculus 
 
 | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|
@@ -34,7 +41,7 @@ Additional study:
 Additional study:
 - Calculus by James Stewart
 
-### 4. Multi Variable Calculus 
+### 5. Multi Variable Calculus 
 
 | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|
@@ -45,14 +52,14 @@ Additional study:
 Additional study:
 - Calculus by James Stewart
 
-### 5. Linear Algebra
+### 6. Linear Algebra
 
 | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|
 | MIT18.06: Linear Algebra | TBD | TBD | TBD | 
 
 
-### 6. Discrete Math and Probability 
+### 7. Discrete Math and Probability 
 
 | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|
@@ -71,7 +78,6 @@ Additinal study:
 
 Book: Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science)
 
-
 ## Data Structure and Algorithms
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
@@ -80,7 +86,6 @@ Book: Structure and Interpretation of Computer Programs - 2nd Edition (MIT Elect
 | Princeton: Algorithms I & Princeton: Algorithms II|  Java | TBD | TBD | TBD |
 
 Book: Introduction to Algorithms, 3rd Edition, by Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, Clifford Stein 
-
 
 ## Electrical Engineering Basics (optional)
 
@@ -95,13 +100,6 @@ Book: Introduction to Algorithms, 3rd Edition, by Thomas H Cormen, Charles E Lei
 |----------|----------|----------|----------|----------|
 | Build a Modern Computer from First Principles: From Nand to Tetris | Flexible | TBD | TBD | TBD |
 | CS61C: Great Ideas in Computer Architecture |  C | TBD | TBD | TBD |
-
-## Computer Systems
-
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| CMU CS15213: CASPP | C | TBD | TBD | TBD |
-| CS110: Principles of Computer Systems |  C, C++| TBD | TBD | TBD |
 
 ## Operating Systems
 
