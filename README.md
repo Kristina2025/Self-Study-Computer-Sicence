@@ -30,36 +30,23 @@ Additional study:
 | MIT6.042J - Mathematics for Computer Science | TBD | TBD | TBD | 
 
 
-### 4. Single Variable Calculus 
+### 4. Calculus 
 
 | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|
-| MIT18.01 Single-variable Calculus 1A: Differentiation | TBD | TBD | TBD | 
-| MIT18.01 Single-variable Calculus 1B: Integration |  TBD | TBD | TBD | 
-| MIT18.01 Single-variable Calculus 1C: Coordniate Systems & Infinite Series |  TBD | TBD | TBD | 
+| Calculus 1 - James Stewart Single Variable Calculus / Berkeley's Math 1A| TBD | TBD | TBD | 
+| Calculus 2 - James Stewart Single Variable Calculus / Berkeley's Math 1B |  TBD | TBD | TBD | 
+| Calculus 3 - Multivariable Calculus / Berkeley's Math 53 |  TBD | TBD | TBD | 
 
-Additional study:
-- Calculus by James Stewart
 
-### 5. Multi Variable Calculus 
-
-| Course Title | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|
-| MIT18.02 Multivarible Calculus 1: Vectors and Derivatives | TBD | TBD | TBD | 
-| MIT18.02 Multivariable Calculus 2: Integrals |  TBD | TBD | TBD | 
-| MIT18.02 Multivariable Calculus 3: Theorems and Application |  TBD | TBD | TBD | 
-
-Additional study:
-- Calculus by James Stewart
-
-### 6. Linear Algebra
+### 5. Linear Algebra
 
 | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|
 | MIT18.06: Linear Algebra | TBD | TBD | TBD | 
 
 
-### 7. Discrete Math and Probability 
+### 6. Discrete Math and Probability 
 
 | Course Title | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|
@@ -67,8 +54,6 @@ Additional study:
 | MIT18.05: Introduction to Probability and Statistics | TBD | TBD | TBD | 
 | MIT6.431: Probabilistic Systems Analysis and Applied Probability |  TBD | TBD | TBD |
 
-Additinal study:
-- How to Prove It: A Structured Approach, 2nd Edition 2nd Edition by Daniel J. Velleman 
 
 ## Programming Basics
 
@@ -83,9 +68,7 @@ Book: Structure and Interpretation of Computer Programs - 2nd Edition (MIT Elect
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | UCB CS61B: data structures and algorithms | Java | TBD | TBD | TBD |
-| Princeton: Algorithms I & Princeton: Algorithms II|  Java | TBD | TBD | TBD |
-
-Book: Introduction to Algorithms, 3rd Edition, by Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, Clifford Stein 
+| CSE 373 - Steven Skiena's The Algorithm Design Manual |  TBD | TBD | TBD | TBD | 
 
 ## Electrical Engineering Basics (optional)
 
@@ -112,7 +95,7 @@ Book: Introduction to Algorithms, 3rd Edition, by Thomas H Cormen, Charles E Lei
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
-| CS 168: Introduction to the Internet: Architecture and Protocols | Python, Unix Shell | TBD | TBD | TBD |
+| Stanford CS144 - Introduction to Computer Networking | C++ | TBD | TBD | TBD |
 
 ## Databases
 
