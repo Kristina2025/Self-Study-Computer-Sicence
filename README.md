@@ -13,9 +13,6 @@ Currently working on: Algebra and Geometry + CS61A - Structure and Interpretatio
 | Elementary and Intermediate Algebra by Jerome E. Kaufmann| 14.08.2025 | TBD | 
 | Everything You Need to Ace Geometry in One Big Fat Notebook by Workman Publishing | 14.08.2025 | TBD |
 
-Additional study:
-- https://www.khanacademy.org/
-
 ### 2. Trigonometry and precalculus 
 
 | Book Title | Date Started | Date Completed | 
@@ -61,14 +58,17 @@ Additional study:
 |----------|----------|----------|----------|----------|
 | CS61A - Structure and Interpretation of Computer Programs | Python | TBD | TBD | TBD |
 
-Book: Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science)
-
-## Data Structure and Algorithms
+## Data Structure
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | UCB CS61B: data structures and algorithms | Java | TBD | TBD | TBD |
-| CSE 373 - Steven Skiena's The Algorithm Design Manual |  TBD | TBD | TBD | TBD | 
+
+## Algorithms
+
+| Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|
+| CSE 373 - Steven Skiena's The Algorithm Design Manual | TBD | TBD | TBD | TBD |
 
 ## Electrical Engineering Basics (optional)
 
@@ -88,7 +88,6 @@ Book: Structure and Interpretation of Computer Programs - 2nd Edition (MIT Elect
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
-| MIT 6.S081: Operating System Engineering | C, RISC-V | TBD | TBD | TBD |
 | CS162: Operating System |  C, Assembly | TBD | TBD | TBD |
 
 ## Computer Networking
