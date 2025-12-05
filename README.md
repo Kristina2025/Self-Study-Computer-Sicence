@@ -2,7 +2,7 @@
 
 I've decided to teach myself computer science, starting from the basics and working my way up. At the end of this journey, I hope to give myself a full CS education. I'll use free online University courses from MIT, UC Berkeley, Standford, Harward, Princeton...
 
-Currently working on: Algebra and Geometry + CS61A - Structure and Interpretation of Computer Programs + Build a Modern Computer from First Principles: From Nand to Tetris (Part I)
+Currently working on: Algebra and Geometry + CS61A - Structure and Interpretation of Computer Programs
 
 ## Math Courses
 
@@ -52,81 +52,76 @@ Currently working on: Algebra and Geometry + CS61A - Structure and Interpretatio
 | MIT6.431: Probabilistic Systems Analysis and Applied Probability |  TBD | TBD | TBD |
 
 
-## Programming Basics
+## Programming
+
+### 1. Programming Fundamentals
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | CS61A - Structure and Interpretation of Computer Programs | Python | TBD | TBD | TBD |
 
-## Data Structure
+### 2. Data Structures
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | UCB CS61B: data structures and algorithms | Java | TBD | TBD | TBD |
 
-## Algorithms
+### 3. Algorithms
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | CSE 373 - Steven Skiena's The Algorithm Design Manual | TBD | TBD | TBD | TBD |
 
-## Electrical Engineering Basics (optional)
-
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| EECS16A, Foundations of Signals, Dynamical Systems, and Information Processing | Python | TBD | TBD | TBD |
-| EECS16B, Designing Information Devices and Systems II | Python | TBD | TBD | TBD |
-
-## Computer Architecture
+### 4. Computer Architecture
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | Build a Modern Computer from First Principles: From Nand to Tetris | Flexible | TBD | TBD | TBD |
 | CS61C: Great Ideas in Computer Architecture |  C | TBD | TBD | TBD |
 
-## Operating Systems
+### 5. Operating Systems
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | CS162: Operating System |  C, Assembly | TBD | TBD | TBD |
 
-## Computer Networking
+### 6. Computer Networking
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | Stanford CS144 - Introduction to Computer Networking | C++ | TBD | TBD | TBD |
 
-## Databases
+### 7. Databases
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | UCB CS186: Introduction to Database System | Java | TBD | TBD | TBD |
 
-## Compilers
-
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| Stanford CS143: Compilers | Java, C++ | TBD | TBD | TBD |
-
-## Computer Security
-
-| Course Title | Language | Date Started | Date Completed | Repo | 
-|----------|----------|----------|----------|----------|
-| UCB CS161: Computer Security | Go | TBD | TBD | TBD |
-
-## Distributed Systems
+### 8. Distributed Systems
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | MIT6.824: Distributed System | Go | TBD | TBD | TBD |
 
-## Software Engineering
+### 9. Computer Security
+
+| Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|
+| UCB CS161: Computer Security | Go | TBD | TBD | TBD |
+
+### 10. Compilers
+
+| Course Title | Language | Date Started | Date Completed | Repo | 
+|----------|----------|----------|----------|----------|
+| Stanford CS143: Compilers | Java, C++ | TBD | TBD | TBD |
+
+### 11. Software Engineering
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
 | UCB CS169: software engineering | Ruby, Javascript | TBD | TBD | TBD |
 
-## Machine Learning, AI, Deep Learning
+### 12. Machine Learning, AI, Deep Learning
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
