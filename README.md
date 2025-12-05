@@ -58,7 +58,7 @@ Currently working on: Algebra and Geometry + CS61A - Structure and Interpretatio
 
 | Course Title | Language | Date Started | Date Completed | Repo | 
 |----------|----------|----------|----------|----------|
-| CS61A - Structure and Interpretation of Computer Programs | Python | TBD | TBD | TBD |
+| CS61A - Structure and Interpretation of Computer Programs | Python | TBD | TBD | https://github.com/Kristina2025/CS61a-Self-Study |
 
 ### 2. Data Structures
 
